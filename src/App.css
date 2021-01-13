@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.Toggle-Button {
+  color: white;
+  font: inherit;
+  border: 1px solid blue;
+  padding:  8px;
+  cursor: pointer;
+}
+
+.Background-Green {
+  background-color: green;
+}
+
+.Background-Red {
+  background-color: red;
+}
